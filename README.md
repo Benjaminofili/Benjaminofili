@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://gitroll.io/profile/uRZ7SZedElfTo9DROXKbow6nJvIz1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uRZ7SZedElfTo9DROXKbow6nJvIz1?theme=dark" alt="GitRoll Profile Badge"/></a>
 <!--
 **Benjaminofili/Benjaminofili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
