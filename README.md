@@ -4,77 +4,42 @@
 </div>
 
 <h1 align="center">Hi there, I'm Benjamin Ofili 👋</h1>
-<h3 align="center">Full Stack Software Developer from Lagos, Nigeria 🇳🇬</h3>
+Final-year Business Computing and Data Analytics BSc Honours student at Middlesex University Mauritius, with an Advanced Diploma in Software Engineering completed with Distinction.
 
-<p align="center">
-  Passionate about crafting seamless cross-platform mobile experiences and building robust AI-integrated applications. I thrive at the intersection of mobile development and artificial intelligence, constantly exploring new ways to solve real-world problems.
-</p>
+I build software and data-backed systems using Python, Django, SQL, PostgreSQL, Java, Spring Boot, Flutter, React and REST APIs.
 
-<p align="center">
-  <a href="mailto:benjaminofili34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/awelechukwu-ofili-3b9450367">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://benjamin-dev-omega.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://gitroll.io/profile/uRZ7SZedElfTo9DROXKbow6nJvIz1">
-    <img src="https://img.shields.io/badge/GitRoll-Profile-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="GitRoll" />
-  </a>
-</p>
+My current focus is the intersection of software engineering, data analytics, business intelligence and automation.
 
----
+## Selected Projects
 
-### 🚀 What I'm Up To
-* 🔭 **Currently working on:** Web and Mobile application development, focusing on scalable architecture.
-* 🌱 **Currently learning:** Advanced AI integrations and Cloud infrastructure.
-* 💡 **Passionate about:** Mobile engineering and Artificial Intelligence.
-* 🎓 **Academic Journey:** Currently navigating my 4th semester of academic study. 
-* ⚡ **Fun facts:** When I'm not coding, you can find me playing the piano or diving into open-world action games.
+### AI Support Agent
+Django-based customer support system using PostgreSQL/pgvector, Celery, Redis and retrieval-augmented generation for knowledge-based support workflows.
 
----
+### MediConnect
+Telemedicine backend built with Django and Django REST Framework, supporting appointment scheduling, medical records, authentication and video-consultation integration.
 
-### 💻 Tech Stack & Tools
+### FusionFiesta
+Flutter-based college event management application with role-based user flows, QR attendance, reporting interfaces and a simulated backend.
 
-**Mobile & Frontend**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+## Current Focus
 
-**Backend & AI**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
+- Business Intelligence and Data Analytics
+- Backend and data systems
+- SQL and PostgreSQL
+- Software automation
+- API and systems integration
 
----
+## Technologies
 
-### 🔥 Featured Projects
+**Languages:** Python, Java, JavaScript, TypeScript, Dart, SQL  
+**Backend:** Django, Django REST Framework, Spring Boot, Flask  
+**Data:** PostgreSQL, MySQL, Redis, pgvector  
+**Frontend & Mobile:** React, Next.js, Flutter  
+**Tools:** Git, GitHub, Docker, REST APIs
 
-* **VERD:** [Insert a brief description of what VERD is, the main technologies used, and the problem it solves.]
-* **TasteFlow:** A comprehensive full-stack online food ordering system featuring a Flask-based JSON API and role-based access for customers, owners, and admins.
-* **AI Voice Translator:** A mobile application built with Flutter and Whisper.cpp that delivers offline, real-time voice translation.
-* **MediConnect:** A telemedicine platform supporting seamless appointment scheduling and dedicated consultation video rooms.
+## Connect
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Benjaminofili&theme=radical" alt="Benjamin's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benjaminofili&theme=radical" alt="Benjamin's GitHub Streak" />
-</p>
-
-<p align="center">
+LinkedIn: https://www.linkedin.com/in/awelechukwu-ofili-3b9450367  
+Email: benjaminofili34@gmail.com
   <i>Let's connect and build something amazing together!</i>
 </p>
